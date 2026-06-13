@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Resultados de compilación de .NET
+**/bin/
+**/obj/
+
+# Archivos temporales
+*.tmp
+*.log

@@ -1,0 +1,43 @@
+<Solution>
+  <Folder Name="/01-Principiante/">
+    <Project Path="01-Principiante/01-HolaMundo/01-HolaMundo.csproj" />
+    <Project Path="01-Principiante/02-VariablesYTipos/02-VariablesYTipos.csproj" />
+    <Project Path="01-Principiante/03-EntradaYOperadores/03-EntradaYOperadores.csproj" />
+    <Project Path="01-Principiante/04-Condicionales/04-Condicionales.csproj" />
+    <Project Path="01-Principiante/05-Bucles/05-Bucles.csproj" />
+    <Project Path="01-Principiante/06-Metodos/06-Metodos.csproj" />
+  </Folder>
+  <Folder Name="/02-Fundamentos/">
+    <Project Path="02-Fundamentos/01-ArraysYColecciones/01-ArraysYColecciones.csproj" />
+    <Project Path="02-Fundamentos/02-CadenasYEnumeraciones/02-CadenasYEnumeraciones.csproj" />
+    <Project Path="02-Fundamentos/03-ClasesYObjetos/03-ClasesYObjetos.csproj" />
+    <Project Path="02-Fundamentos/04-HerenciaEInterfaces/04-HerenciaEInterfaces.csproj" />
+    <Project Path="02-Fundamentos/05-Excepciones/05-Excepciones.csproj" />
+  </Folder>
+  <Folder Name="/03-Intermedio/">
+    <Project Path="03-Intermedio/01-Genericos/01-Genericos.csproj" />
+    <Project Path="03-Intermedio/02-DelegadosLambdasYEventos/02-DelegadosLambdasYEventos.csproj" />
+    <Project Path="03-Intermedio/03-Linq/03-Linq.csproj" />
+    <Project Path="03-Intermedio/04-RecordsYPatrones/04-RecordsYPatrones.csproj" />
+    <Project Path="03-Intermedio/05-ArchivosYJson/05-ArchivosYJson.csproj" />
+    <Project Path="03-Intermedio/06-AsyncYNullable/06-AsyncYNullable.csproj" />
+  </Folder>
+  <Folder Name="/04-CSharp14/">
+    <Project Path="04-CSharp14/01-PropiedadesField/01-PropiedadesField.csproj" />
+    <Project Path="04-CSharp14/02-AsignacionCondicionalNula/02-AsignacionCondicionalNula.csproj" />
+    <Project Path="04-CSharp14/03-MiembrosExtension/03-MiembrosExtension.csproj" />
+    <Project Path="04-CSharp14/04-SpanYConversiones/04-SpanYConversiones.csproj" />
+    <Project Path="04-CSharp14/05-LambdasYNameof/05-LambdasYNameof.csproj" />
+    <Project Path="04-CSharp14/06-MiembrosParciales/06-MiembrosParciales.csproj" />
+  </Folder>
+  <Folder Name="/05-Avanzado/">
+    <Project Path="05-Avanzado/01-ReflexionYAtributos/01-ReflexionYAtributos.csproj" />
+    <Project Path="05-Avanzado/02-ParalelismoYCancelacion/02-ParalelismoYCancelacion.csproj" />
+    <Project Path="05-Avanzado/03-InyeccionDependencias/03-InyeccionDependencias.csproj" />
+  </Folder>
+  <Folder Name="/06-Proyectos/">
+    <Project Path="06-Proyectos/01-Calculadora/01-Calculadora.csproj" />
+    <Project Path="06-Proyectos/02-GestorTareasJson/02-GestorTareasJson.csproj" />
+    <Project Path="06-Proyectos/03-AnalizadorArchivos/03-AnalizadorArchivos.csproj" />
+  </Folder>
+</Solution>
